@@ -1,0 +1,56 @@
+<nav>
+  <ul>
+    <li>
+      <div class="About-icon">
+        <div class="roof">
+          <div class="roof-edge"></div>
+        </div>
+        <div class="front"></div>
+      </div>
+    </li>
+    <li>
+      <div class="portfolios-icon">
+        <div class="head">
+          <div class="eyes"></div>
+          <div class=""></div>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="resume-icon">
+        <div class="paper"></div>
+        <div class="lines"></div>
+        <div class="lines"></div>
+        <div class="lines"></div>
+      </div>
+    </li>
+    <li>
+      <div class="contact-icon">
+        <div class="mail-base">
+          <div class="mail-top"></div>
+        </div>
+      </div>
+    </li>
+  </ul>
+</nav>
+<section id="slider">
+  <input type="radio" name="slider" id="s1">
+  <input type="radio" name="slider" id="s2">
+  <input type="radio" name="slider" id="s3" checked>
+  <input type="radio" name="slider" id="s4">
+  <input type="radio" name="slider" id="s5">
+  <label for="s1" id="slide1"><h1>objective</h1><h6>OBJECTIVE :  A Strongly qualified individual with dynamic and goal oriented qualify possesses one year experience of sales associate . Have enough knowledge of products selling, with sales pitch within the department.</h6>
+</label>
+  <label for="s2" id="slide2"><h1>highlights</h1><h6> -product knowledge
+-  Service minded
+- Able to stand long periods of time
+- order processing
+-Motivated seller
+-persuasive communicator
+-Accurate
+-Multi Tasker
+    </h6></label>
+  <label for="s3" id="slide3"><h1>experience</h1></label>
+  <label for="s4" id="slide4"><h1>education</h1></label>
+ 
+</section>
